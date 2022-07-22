@@ -10,7 +10,7 @@ Before you compile this code, you will need to install [Node.js] ≥ 12
 
 1. The main smart contract code lives in `assembly/index.ts`. You can compile this code by navigating into the contract folder by typing and running `asb` or `yarn build` in the contract folder.
 
-[smart contract]: https://docs.near.org/docs/develop/contracts/overview
+[smart contract]: https://docs.near.org/develop/welcome
 [assemblyscript]: https://www.assemblyscript.org/
 [as-pect]: https://www.npmjs.com/package/@as-pect/cli
 
